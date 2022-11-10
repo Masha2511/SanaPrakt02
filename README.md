@@ -12,5 +12,3 @@
 - [x] GitHub
 - [ ] GitLab
 - [ ] Bitbucket
-
-Виконала: Євдокимова Марія
